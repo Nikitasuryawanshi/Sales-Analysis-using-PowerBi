@@ -51,3 +51,14 @@ Calculate the following time measures:
 
 # 4.Use the measures and calculations to assemble a sales reports with different visuals to best show the Sales Insights in one page Dashboard. Feel free to use your imagination to best represent the data you have available.
 If you plot Month on x-axis, make sure the months are sorted from Jan-Dec.
+
+
+## Insights:
+
+#### 1.We received a total revenue of $126.01 million, and the gross profit for this revenue is $86.89 million.
+#### 2.Sum of Total Revenue for Special (81.23M) was higher than General (44.41M).
+#### 3.Special accounted for 64.46% of Sum of Total Revenue.
+#### 4.At 32.10M, 3 had the highest  Total Revenue and was 4.37% higher than 1, which had the lowest  Total Revenue at 30.75M
+#### 5.Across all 4 Qtr, Sum of Total Revenue ranged from 30.76M to 32.10M
+#### 6.At 7.86M, Jul had the highest  Gross Profit and was 18.02% higher than Feb, which had the lowest  Gross Profit at 6.67 M
+#### 7.Across all 12 Month name, Sum of Gross Profit ranged from 6.67M to 7.86M.
