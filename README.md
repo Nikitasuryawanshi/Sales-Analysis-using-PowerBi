@@ -62,3 +62,7 @@ If you plot Month on x-axis, make sure the months are sorted from Jan-Dec.
 #### 5.Across all 4 Qtr, Sum of Total Revenue ranged from 30.76M to 32.10M
 #### 6.At 7.86M, Jul had the highest  Gross Profit and was 18.02% higher than Feb, which had the lowest  Gross Profit at 6.67 M
 #### 7.Across all 12 Month name, Sum of Gross Profit ranged from 6.67M to 7.86M.
+
+
+![sales analysis](https://github.com/Nikitasuryawanshi/Sales-Analysis-using-PowerBi/assets/105000370/b8ecf9de-ad3c-460c-8aff-52809949e462)
+
